@@ -210,7 +210,7 @@ export default function Hero({ inverted }) {
             }}
           >
             <img
-              src="profile.jpeg"
+              src="/profile.jpeg"
               alt="Dev Vrat"
               className="w-full h-full object-cover"
               style={{ objectPosition: '50% 20%' }}  /* center-x, top-y (zoom toward face) */
